@@ -1,4 +1,4 @@
-### Hello there!👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=Hello+there!)](https://git.io/typing-svg)
 I'm a 4th-year student. Currently pursuing Computer Science and Engineering at Dronacharya Group of Institutions, Greater Noida (2017-2021)
 
 Skills: Python / C++ / Java / HTML
