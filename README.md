@@ -5,7 +5,6 @@ I'm a 4th-year student. Currently pursuing Computer Science and Engineering at D
 
 Skills: Python / C++ / Java / HTML
 
-- 🌱 I’m currently learning Neural Networks and Deep Learning 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/suvodeep12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suvodeepghosh/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/suvodeepg12/)  
