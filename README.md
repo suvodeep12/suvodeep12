@@ -1,8 +1,5 @@
 <p align="center">Hello there!</p>
 
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=suvodeep12.suvodeep12&left_color=green&right_color=red"/></p>
-
-
 <p align="center"> Skills: Python / C++ / Java / HTML </p>
 
 
@@ -25,3 +22,5 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=2g4cn4wh81q4b0ge5faou7hkq&cover_image=true&theme=default">
   </a>
 </p>
+
+<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvodeep12" alt="Top Langs"></a></p>
