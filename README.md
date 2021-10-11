@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&lines=Hello+there!)](https://git.io/typing-svg)
 
-                    ![visitors](https://visitor-badge.glitch.me/badge?page_id=suvodeep12.suvodeep12&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=suvodeep12.suvodeep12&left_color=green&right_color=red)
 
 
 Skills: Python / C++ / Java / HTML
