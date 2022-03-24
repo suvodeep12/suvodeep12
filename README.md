@@ -17,10 +17,5 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=2g4cn4wh81q4b0ge5faou7hkq&cover_image=true&theme=default">
-  </a>
-</p>
 
 <p align="center"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suvodeep12" alt="Top Langs"></a></p>
